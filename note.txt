@@ -1,0 +1,8 @@
+1. Tạo model trong tour
+2. Cấu hình database trong settings
+3. Install pylow
+4. chạy python makemigrations
+5. chạy python migrate
+6. chạy dòng lệnh: python manage.py createsuperuser
+7. Tạo model diadiem, add vào setting
+8. 
